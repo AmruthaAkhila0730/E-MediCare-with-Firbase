@@ -45,7 +45,6 @@
 - Real-time updates using Firebase Firestore
 - Firebase Authentication for secure access
 - Role-based interface display
-- Hosted via GitHub Pages (or Firebase Hosting)
 
 ---
 
