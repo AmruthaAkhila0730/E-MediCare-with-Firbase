@@ -11,11 +11,16 @@
 ---
 
 ## 📸 Screenshots
-
-> *(Add screenshots here if available — drag & drop in GitHub preview)*  
-Example:
-![E-MediCare Screenshots](./Images/Screenshot1.jpg)
-> (./Images/Screenshot2.jpg)
+ 
+![E-MediCare Screenshots](./Images/Screenshot1.JPG)
+![E-MediCare Screenshots](./Images/Screenshot2.JPG)
+![E-MediCare Screenshots](./Images/Screenshot3.JPG)
+![E-MediCare Screenshots](./Images/Screenshot4.JPG)
+![E-MediCare Screenshots](./Images/Screenshot5.JPG)
+![E-MediCare Screenshots](./Images/Screenshot6.JPG)
+![E-MediCare Screenshots](./Images/Screenshot7.JPG)
+![E-MediCare Screenshots](./Images/Screenshot8.JPG)
+![E-MediCare Screenshots](./Images/Screenshot9.JPG)
 
 ---
 
